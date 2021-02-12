@@ -1,7 +1,7 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "FameToInfamy",
+  "title": "Fame to Infamy",
+  "description": "Foundry VTT Module to manage custom 5e reputation/renown",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
@@ -9,9 +9,9 @@
   "compatibleCoreVersion": "0.7.9",
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Malekal",
+      "url": "https://github.com/Malekal4699",
+      "discord": "Malekal#9985"
     }
   ],
   "dependencies": [
@@ -21,10 +21,10 @@
     
   ],
   "esmodules": [
-    "/scripts/module.js"
+    
   ],
   "scripts": [
-    "/scripts/lib/lib.js"
+    "/scripts/module.js"
   ],
   "styles": [
     "/styles/module.css"
