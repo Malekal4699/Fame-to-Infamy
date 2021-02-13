@@ -1,5 +1,5 @@
 {
-  "name": "FameToInfamy",
+  "name": "Fame-to-Infamy",
   "title": "Fame to Infamy",
   "description": "Foundry VTT Module to manage custom 5e reputation/renown",
   "version": "This is auto replaced",
@@ -24,7 +24,7 @@
     
   ],
   "scripts": [
-    "/scripts/module.js"
+    "./module.js", "./scripts/rep.js"
   ],
   "styles": [
     "/styles/module.css"
