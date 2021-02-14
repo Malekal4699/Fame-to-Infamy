@@ -24,10 +24,11 @@
     
   ],
   "scripts": [
-    "./module.js", "./scripts/rep.js"
+    "./module.js", "./scripts/rep.js","./scripts/folderManipulation.js","./scripts/myTools.js",
+    "./data/fticonfig.json"
   ],
   "styles": [
-    "/styles/module.css"
+    "./styles/module.css"
   ],
   "languages": [
     {

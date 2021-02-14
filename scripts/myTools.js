@@ -1,7 +1,4 @@
 // Function to return the max amount of characters a html input box can contain, shorting the string and adding ... at the start.
-
-const CLSTRING = "FTI | ";
-
 function shortLeft(string, boxLength) {
     let PREFIXDIRSTR = "...";
     boxLength -= PREFIXDIRSTR.length;
@@ -11,6 +8,6 @@ function shortLeft(string, boxLength) {
 }
 
 function prtc(content){
-    const CLSTRING = "FTI | ";
+    CLSTRING = "FTI | ";
     console.log(CLSTRING + content);
 } 

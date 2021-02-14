@@ -1,0 +1,18 @@
+{
+	"constants": [{
+			"folderName": "Fame to Infamy",
+			"name": "Fame to Infamy",
+			"content": "undefined"
+		},
+		{
+			"folderName": "Fame to Infamy",
+			"name": "Homebrew rules",
+			"content": "Default Content"
+		},
+		{
+			"folderName": "Fame to Infamy",
+			"name": "Tracking Journal",
+			"content": "Default Content"
+		}
+	]
+}
